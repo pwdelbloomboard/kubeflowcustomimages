@@ -1,0 +1,15 @@
+jupyterlab==3.0.16
+notebook==6.4.10
+ipykernel==5.5.5
+h2o==3.36.1.1
+pandas==1.4.2
+Faker==13.11.0
+numpy==1.22.3
+scikit-learn==1.0.2
+scipy==1.8.0
+joblib==1.1.0
+threadpoolctl==3.1.0
+kfp==1.8.12
+seaborn==0.11.2
+matplotlib==3.5.2
+yellowbrick==1.4
